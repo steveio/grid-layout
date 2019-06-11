@@ -1,0 +1,12 @@
+
+node js / html5 responsive bootstrap 4x template, masonary grid layout loaded with infinite scroll
+
+
+mkdir infinite-scroll
+cd infinite-scroll/
+npm init
+
+npm install express
+npm install masonry-layout --save
+
+# create index.js
